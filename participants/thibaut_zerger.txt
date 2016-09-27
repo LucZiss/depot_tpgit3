@@ -1,1 +1,2 @@
 Bonjour à vous sur le GIT ! 
+Ceci est une petite modification : je vous souhaite une bonne soirée ! 
